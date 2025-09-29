@@ -1,0 +1,6 @@
+@LctMonolith_HostAddress = http://localhost:5217
+
+GET {{LctMonolith_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

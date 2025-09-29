@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreService", "StoreService\StoreService.csproj", "{5DC91A89-84D9-4C5E-9539-43757A2474D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LctMonolith", "LctMonolith\LctMonolith.csproj", "{EA37C010-2A5C-4B2E-A6B9-1E7EBB39D497}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5DC91A89-84D9-4C5E-9539-43757A2474D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5DC91A89-84D9-4C5E-9539-43757A2474D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5DC91A89-84D9-4C5E-9539-43757A2474D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5DC91A89-84D9-4C5E-9539-43757A2474D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA37C010-2A5C-4B2E-A6B9-1E7EBB39D497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA37C010-2A5C-4B2E-A6B9-1E7EBB39D497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA37C010-2A5C-4B2E-A6B9-1E7EBB39D497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA37C010-2A5C-4B2E-A6B9-1E7EBB39D497}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
